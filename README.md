@@ -1,3 +1,8 @@
+# Description
+Backend challenge to access to a Cabify Bootcamp (succesfully)
+We are asked to develop a service that provides groups of seven or less people, to assign them to a specific restaurant and have one different leader each time.
+Link to the GitHub of the challenge: https://github.com/TeoDiaz/backend-bootcamp-challenge/blob/master/challenge.md
+
 # Instructions
 
 1. Install dependencies: `npm install`
