@@ -81,7 +81,7 @@ router.get('/groups', (req, res) => {
         .then(allGroups => {
             res.json({ allGroups })
         })
-        .catch(res.status(500).json({ message: "group not created yet" }))
+        .catch(err => res.status(500).json({ message: "group not created yet" }))
 })
 
 
